@@ -3,7 +3,7 @@ I have executed RFM (Recency, Frequency, Monetary) analysis project for customer
 ---
 
 ## Dataset Used
-(sales_data.csv)
+[Dataset of sales](sales_data.csv)
 
 ---
 ## What is RFM?
