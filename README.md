@@ -10,7 +10,7 @@ I have executed RFM (Recency, Frequency, Monetary) analysis project for customer
 
 ---
 ###  Sample RFM Output
-![Sample Output](sample output.jpg)
+![sample output.jpg](https://github.com/RPreeti12/rfm-analysis-customer-segmentation/blob/main/sample_output.png)
 ## What is RFM?
 -Recency – How recently a customer made a purchase
 -Frequency – How often a customer makes a purchase
