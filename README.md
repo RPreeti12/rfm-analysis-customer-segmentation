@@ -4,12 +4,17 @@ I have executed RFM (Recency, Frequency, Monetary) analysis project for customer
 
 ## Dataset Used
 [Dataset of sales](sales_data.csv)
+-Order information (OrderNumber, OrderDate, _CustomerID)
+-Product and pricing details (Unit Price, Unit Cost, Discount Applied, Order Quantity)
+-Calculated metrics like Revenue
 
 ---
+###  Sample RFM Output
+[RFM Output ](sample output.jpg)
 ## What is RFM?
-Recency – How recently a customer made a purchase
-Frequency – How often a customer makes a purchase
-Monetary – How much money a customer spends
+-Recency – How recently a customer made a purchase
+-Frequency – How often a customer makes a purchase
+-Monetary – How much money a customer spends
 
 # Project Workflow
 Load and clean data
@@ -20,4 +25,4 @@ Recency (days since last order)
 Frequency (number of orders)
 Monetary (total revenue)
 Create an RFM table for customer segmentation
-# Dataset 
+
