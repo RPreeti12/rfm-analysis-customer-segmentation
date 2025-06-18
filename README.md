@@ -17,12 +17,12 @@ I have executed RFM (Recency, Frequency, Monetary) analysis project for customer
 -Monetary – How much money a customer spends
 
 # Project Workflow
-Load and clean data
-Calculate Revenue per order
-Select relevant columns for RFM
-Group by Customer ID and compute:
-Recency (days since last order)
-Frequency (number of orders)
-Monetary (total revenue)
-Create an RFM table for customer segmentation
+-Load and clean data
+-Calculate Revenue per order
+-Select relevant columns for RFM
+-Group by Customer ID and compute:
+-Recency (days since last order)
+-Frequency (number of orders)
+-Monetary (total revenue)
+-Create an RFM table for customer segmentation
 
