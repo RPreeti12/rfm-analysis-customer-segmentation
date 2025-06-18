@@ -3,11 +3,9 @@ I have executed RFM (Recency, Frequency, Monetary) analysis project for customer
 ---
 
 ## Dataset Used
-
-- [Sample Superstore Sales Dataset](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
+[Download Excel Output](sales_data.csv)
 
 ---
-
 ## What is RFM?
 Recency – How recently a customer made a purchase
 Frequency – How often a customer makes a purchase
