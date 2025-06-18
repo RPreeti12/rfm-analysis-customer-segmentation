@@ -1,2 +1,25 @@
 # rfm-analysis-customer-segmentation
 I have executed RFM (Recency, Frequency, Monetary) analysis project for customer segmentation using Python and pandas. Helps identify high-value, loyal, and at-risk customers from sales data.
+---
+
+## Dataset Used
+
+- [Sample Superstore Sales Dataset](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
+
+---
+
+## What is RFM?
+Recency – How recently a customer made a purchase
+Frequency – How often a customer makes a purchase
+Monetary – How much money a customer spends
+
+# Project Workflow
+Load and clean data
+Calculate Revenue per order
+Select relevant columns for RFM
+Group by Customer ID and compute:
+Recency (days since last order)
+Frequency (number of orders)
+Monetary (total revenue)
+Create an RFM table for customer segmentation
+# Dataset 
